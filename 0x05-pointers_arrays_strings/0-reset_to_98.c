@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap_int -this function takes a pointer to an integer
+ * reset_to_98 - this function takes a pointer to an integer
  * @a: this is an integer
  *
  */
