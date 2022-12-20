@@ -18,10 +18,10 @@ void puts2(char *str)
 	{
 		if (1 % 2 == 0)
 		{
-			-putchar(str[i]);
+			_putchar(str[i]);
 		}
 		i++;
 	}
-	-putchar ('\n');
+	_putchar ('\n');
 }
 
